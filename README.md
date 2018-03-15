@@ -7,8 +7,3 @@ Doc officielle: http://guides.rubyonrails.org/action_mailer_basics.html
 Config email:
 * En Local/Dev, MailCatcher (https://mailcatcher.me/)
 * En Prod, SMTP Mailjet.
-
----
-
-Problèmes:
-* Problème avec l'autentification GMail
