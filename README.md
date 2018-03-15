@@ -4,7 +4,9 @@ Installation et configuration en se basant sur https://medium.com/@ericschwartz7
 
 Doc officielle: http://guides.rubyonrails.org/action_mailer_basics.html
 
-Config avec SMTP Mailjet.
+Config email:
+* En Local/Dev, MailCatcher (https://mailcatcher.me/)
+* En Prod, SMTP Mailjet.
 
 ---
 
