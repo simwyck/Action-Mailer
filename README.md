@@ -1,24 +1,8 @@
-# README
+# Action Mailer Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Installation et configuration en se basant sur https://medium.com/@ericschwartz7/rails-mailer-tutorial-82700f6737d9
 
-Things you may want to cover:
+---
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Problèmes:
+* Problème avec l'autentification GMail
